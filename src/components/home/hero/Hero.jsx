@@ -13,7 +13,7 @@ const Hero = () => {
           <form className='flex'>
             <div className='box'>
               <span>District</span>
-              <input type='text' placeholder='Enter Location' />
+              <input type='text' placeholder='Enter Location:' />
             </div>
             <div className='box'>
               <span>KudumbaSree Unit No</span>
