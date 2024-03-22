@@ -8,7 +8,7 @@ const Hero = () => {
 
       <section className='hero'>
         <div className='container'>
-          <Heading title='WE-Loan ' subtitle='A KudumbaSree Loan Initiative' />
+          <Heading title='WE-Loan ' subtitle='KudumbaSree Loan Initiative' />
 
           <form className='flex'>
             <div className='box'>
