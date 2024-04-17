@@ -17,8 +17,8 @@ body {
 }
 .flex {
   display: flex;
-  justify-content: space-between;
-  align-items:self-start;
+  justify-content:space-between;
+  align-items:flex-end;
   
 }
 a {

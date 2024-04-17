@@ -23,6 +23,10 @@ export const nav = [
     text: "contact",
     path: "/contact",
   },
+  {
+    text: "calculator",
+    path: "/Calculator"
+  },
 ]
 export const featured = [
   {
@@ -316,3 +320,4 @@ export const footer = [
     text: [{ list: "About" }, { list: "Blog" }, { list: "Pricing" }, { list: "Affiliate" }, { list: "Login" }, { list: "Changelog" }],
   },
 ]
+
